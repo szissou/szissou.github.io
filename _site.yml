@@ -1,0 +1,10 @@
+name: "szissou.github.io"
+output_dir: "."
+output:
+  html_document:
+    theme: spacelab
+navbar:
+  title: "Steve"
+  left:
+    - text: "Home"
+      href: index.html
